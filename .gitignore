@@ -1,1 +1,4 @@
 *.csv
+Project/Data/*
+*checkpoints
+*.pkl
